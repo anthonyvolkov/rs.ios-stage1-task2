@@ -2,7 +2,7 @@
 
 @interface NSString (Transform)
 
--(NSString*)transform;
+- (NSString*)transform;
 
 @end
 
